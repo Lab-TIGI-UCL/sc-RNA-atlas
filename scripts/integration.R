@@ -1,4 +1,5 @@
-## The goal is to achieve good overlap between samples with the least ammount of correction, hence why no batch correction is tried first, followed by CCA (good for strong effects).
+## The goal is to achieve good overlap between samples with the least ammount of correction, hence why no batch correction is tried first, 
+##followed by CCA (good for strong effects).
 
 library(Seurat)
 library(SeuratDisk)
